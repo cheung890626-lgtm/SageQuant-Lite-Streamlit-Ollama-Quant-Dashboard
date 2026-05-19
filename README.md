@@ -22,7 +22,6 @@ This is a fully operational, light-weight starter codebase designed for learning
 Skip the tedious UI grid setup and backend API boilerplate. Grab this production-ready framework for less than a cup of coffee and start embedding your own formulas right away!
 
 ### 👉 [Click Here to Download SageQuant Lite Code ($1.25 / HK$10 Only)](https://sagequant.lemonsqueezy.com/checkout/buy/39d33fe4-341f-4005-bf43-340282930c27)
-sha256:00fb10d9e1bf32ff34b01026de5442f5555384b3c7090dade1151eb67f2f7ddb
 
 *Instant Zip File Delivery includes: `app.py`, `requirements.txt`, and a 2-minute Local Deployment Guide.*
 
