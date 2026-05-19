@@ -22,6 +22,18 @@ This is a fully operational, light-weight starter codebase designed for learning
 Skip the tedious UI grid setup and backend API boilerplate. Grab this production-ready framework for less than a cup of coffee and start embedding your own formulas right away!
 
 ### 👉 [Click Here to Download SageQuant Lite Code ($1.25 / HK$10 Only)](https://sagequant.lemonsqueezy.com/checkout/buy/39d33fe4-341f-4005-bf43-340282930c27)
-
+sha256:00fb10d9e1bf32ff34b01026de5442f5555384b3c7090dade1151eb67f2f7ddb
 
 *Instant Zip File Delivery includes: `app.py`, `requirements.txt`, and a 2-minute Local Deployment Guide.*
+
+---
+
+## 🎁 [LIMITED TIME EVENT] Download V18 Pro Full Package (30-Day Free Trial)
+
+Want to test the full institutional-grade setup? We are opening up the **SageQuant V18 Pro Fully Automated Version** for a 30-day free public trial! 
+
+No Python installation or environment configuration required. Download and run the standalone encrypted binary terminal directly on your local machine with 100% data privacy.
+
+👉👉 [Download SageQuant V18 Pro for Mac (GitHub Official Secure Link)](https://github.com/cheung890626-lgtm/SageQuant-Lite-Streamlit-Ollama-Quant-Dashboard/releases/download/v18.0/SageQuant_V18_Pro.zip）
+
+*Note: This trial package is built as an encrypted binary black-box with an embedded 30-day time lock. It will automatically expire after June 19, 2026. If the terminal helps your trading workflow, you can buy lifetime buy-out access anytime via our Lemon Squeezy checkout link above.*
