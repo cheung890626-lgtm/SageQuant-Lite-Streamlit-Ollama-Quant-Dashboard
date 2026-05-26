@@ -1,38 +1,20 @@
-# SageQuant Lite: Streamlit & Local AI (Ollama) Quant Terminal Template 🚀
+# 🚀 SageQuant-Lite: AI-Powered Quant Trading & Risk Audit Workspace
 
-Tired of complex, expensive, and privacy-leaking stock valuation software? This is **SageQuant Lite**, a clean, ultra-fast UI template designed for retail investors and individual quant developers. 
+An elegant, high-performance Streamlit UI template designed for quantitative backtesting and local LLM financial audit. 
 
-Built entirely with **Python, Streamlit, and local Large Language Models (Ollama)**, this terminal serves as the perfect foundation for building your independent financial analysis fortress.
-
----
-
-## 💡 What's Included in this HK$10 Lite Version?
-This is a fully operational, light-weight starter codebase designed for learning and rapid development.
-*   **🎨 Pro Dark-Mode UI Framework:** Full layout architecture built with Streamlit (as shown in production screenshots/video).
-*   **🤖 Local LLM (Ollama) Connection Layer:** Clean Python integration scripts to call `qwen2.5-coder` or any local LLM.
-*   **📊 Stock Data Ingestion:** Live data fetching logic using the `yfinance` API.
-*   **🔒 100% Privacy & Zero Cost:** No expensive OpenAPI keys needed. Runs completely on your local machine.
-
-*(Note: The advanced V17 Background Cron Engine, SQLite Database Persistence Layer, and the Multi-Ticker Vectorized 5-Year Backtesting engine are exclusive to the full Pro institutional build and omitted in this Lite version to safeguard intellectual property).*
+## 💎 Key Architecture Blueprint
+* **Privacy-First Design**: Native compatibility with local Ollama (`qwen2.5-coder` / `gemma2`) [2026-05-26].
+* **Three-Layer Data Fallback**: Structured resilience against data blackouts (L1/L2/L3 pipeline ready) [2026-05-26].
+* **Advanced Sandbox Ledger**: Compounding wealth calculator adjusted for pre-withheld dividend tax (30%) and inflation (3%) [2026-05-26].
 
 ---
 
-## 📥 Get the Code Instantly for HK$10 (No account needed)
+## 🔒 Commercial Pro Version Announcement
+This is a **Lite Frontend Template** for structural showcase. 
+The **Ultimate Pro Version** is fully closed-source (Private Repo), secured by **Hardware Bind License Lock (One-Machine-One-Key)** and fully-compiled Nuitka binary `.so` extensions to block any reverse engineering [2026-05-26].
 
-Skip the tedious UI grid setup and backend API boilerplate. Grab this production-ready framework for less than a cup of coffee and start embedding your own formulas right away!
+💼 **For Private Equity, Family Offices, and Independent Financial Advisors (IFA):**
+If you want to experience the complete Master Batch Processing Engine (V17 background scheduling), automated PDF risk reports, and customized Monte Carlo stress testing [2026-05-26]——Please contact the author to obtain the commercial encrypted bundle and license keys!
 
-### 👉 [Click Here to Download SageQuant Lite Code ($1.25 / HK$10 Only)](https://sagequant.lemonsqueezy.com/checkout/buy/39d33fe4-341f-4005-bf43-340282930c27)
-
-*Instant Zip File Delivery includes: `app.py`, `requirements.txt`, and a 2-minute Local Deployment Guide.*
-
----
-
-## 🎁 [LIMITED TIME EVENT] Download V18 Pro Full Package (30-Day Free Trial)
-
-Want to test the full institutional-grade setup? We are opening up the **SageQuant V18 Pro Fully Automated Version** for a 30-day free public trial! 
-
-No Python installation or environment configuration required. Download and run the standalone encrypted binary terminal directly on your local machine with 100% data privacy.
-
-👉👉 [Download SageQuant V18 Pro for Mac (GitHub Official Secure Link)](https://github.com/cheung890626-lgtm/SageQuant-Lite-Streamlit-Ollama-Quant-Dashboard/releases/download/v18.0/SageQuant_V18_Pro.zip）
-
-*Note: This trial package is built as an encrypted binary black-box with an embedded 30-day time lock. It will automatically expire after June 19, 2026. If the terminal helps your trading workflow, you can buy lifetime buy-out access anytime via our Lemon Squeezy checkout link above.*
+📬 **Contact Author for Business Inquiries & Pro Demo Package:** 
+bennoai2026@icloud.com
